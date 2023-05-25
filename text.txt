@@ -1,0 +1,4 @@
+& d:/backend-sentiment-analysis/.venv/Scripts/Activate.ps1
+
+http://127.0.0.1:5000
+
